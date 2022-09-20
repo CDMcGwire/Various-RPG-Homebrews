@@ -1,5 +1,8 @@
 # Peasant Quest - Player Handout
 
+A set of homebrew character creation rules for D&D 5th Edition to play out
+exciting adventures as a group of particularly non-heroic peasants.
+
 ## Character Creation
 
 All players start as level 0 Peasants with the following creation guidelines:
