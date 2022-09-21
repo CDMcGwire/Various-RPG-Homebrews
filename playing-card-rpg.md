@@ -34,6 +34,10 @@ The GM should then come up with an appropriate description of how events unfold.
 The player should discard to a separate pile. All cards in the main deck should
 be used before the discard pile is shuffled and restored.
 
+One other thing to note is that this system only applies to determining the
+success of player actions. NPCs aren't bound by this and the GM may use whatever
+method they deem appropriate to determine the result of an NPC's actions.
+
 ## Picking a Setting
 
 There's no rules here. Either the GM can prepare something ahead of time or
