@@ -1,3 +1,4 @@
-# player-handouts
+# RPG Homebrews
 
-A collection of handouts for one-shot table-top RPG adventures.
+A collection of rulesets, narrative setups, and player handouts for short
+table-top RPG adventures.
